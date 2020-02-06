@@ -10,7 +10,7 @@ Users:
             -turn in assignments
         
         2) TAs
-            -grade assignments
+            -grade assignments (as in submit a grade)
             -comment on assignments
             -make announcements
         
@@ -20,6 +20,7 @@ Users:
             -create assignments
             -post assignments
             -add TA and student accounts to a course
+            -finalize grades 
         
         4) Non-instructor faculty
             -view course material
@@ -36,9 +37,16 @@ Entities and attributes:
   2) Assignments
     -an assignment would be a post for each student to turn in a file
     -assignments would have grades and instructor/TA comments
+    -have graphical elements so a instructor can arrange things like a rubric into a grid or table
   
   3) Announcements
     -non assingment posts meant to convey information, can be posted by instructors or TAs
+    -contain text, links, images
+    -same graphical elements as assignments
+    
+  4) Messages
+    -a message/email would be sent from one user to another about any topic, such as a question for a professor
+    -similar capabilities to assignments/announcements
             
             
             
@@ -47,4 +55,3 @@ System requirements:
   -a powerful enough machine for students to browse the web and upload completed assignments
   -a database to house all the students turned in assignments and all information associated with it, that staff can view
    and a student can view their own information
-  -an email service to allow users to communicate if they need to before meeting in person again / if the class is online
