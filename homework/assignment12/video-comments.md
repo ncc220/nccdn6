@@ -3,3 +3,5 @@ but the more I thought about it the more sense it made. Making these metrics und
 but these metrics should also be understandable to people outside of CHAOSS, so keeping them uniform could really help with that.
 Similar to how you guys mentioned to try and keep the amount of words down in a metric. Since I was in the class town hall where my 
 classmate showed you that metric you reviewed, I underestimated how hard it is to interpret a metric.
+
+For the repository work I commited my value group metric
