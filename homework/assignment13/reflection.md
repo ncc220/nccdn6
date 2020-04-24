@@ -13,4 +13,9 @@ https://github.com/IdentityModel/IdentityModel.OidcClient
 
 What I instead found, was how little documentation open id has? At least for the c# library, I had no idea how to call it or anything. 
 Just figuring out how to get github code into visual studio took me long enough and I'm not even sure I did it right anyway, since the
-tutorials I found were for older versions.
+tutorials I found were for older versions. my next guess is that I need to mess with whatever nuget is.
+It's funny because I beat my head against getting no progress over these extra days you've added to the assignment, only on the final day
+to realize I could have just switched to another login service this entire time...
+
+From now on, I'm working with software that has spectacular documentation and plenty of help online. Sorry to have not done much of
+anything with this project.
