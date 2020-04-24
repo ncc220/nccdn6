@@ -1,1 +1,5 @@
+I like how the articles broke down the reasoning to contribute to open source projects into internal vs external reasons. I think a particular project would tend to be dominated by developers from one of those camps. After having listened to a bunch of the people working in CHAOSS I would say they mostly fall under the internal reward side of thinking. Whereas some OSS that's mostly being funded by some for profit company would perhaps mostly have contributors motivated by the paycheck the company gives.
 
+I also found it interesting in how much a company uses open source software in hiring. The first article mentions about how having open source software in your resume could make or break getting hired. The third article mentions about how companies could look to hire open source devs working alongside their employees on a project. The coworkers of the potential new hire would get to take them on a test run to see who's the best fit for the company.
+
+So between the internal and external reasoning, the prospect of working on OSS furthuring your career makes working on OSS quite an interesting prospect for programmers of many different walks of life.
