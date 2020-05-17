@@ -16,3 +16,8 @@ some recources for dex and go that I found
 -> https://github.com/aws/aws-sdk-go
 
 -> https://hackernoon.com/deploying-a-go-application-on-aws-ec2-76390c09c2c5
+
+
+also looked into AuthO
+
+->https://auth0.com/learn/how-to-implement-single-sign-on/
