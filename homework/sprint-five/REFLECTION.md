@@ -20,4 +20,6 @@ some recources for dex and go that I found
 
 also looked into AuthO
 
-->https://auth0.com/learn/how-to-implement-single-sign-on/
+-> https://auth0.com/learn/how-to-implement-single-sign-on/
+
+-> https://github.com/zmartzone/mod_auth_openidc/releases
