@@ -12,5 +12,7 @@ I've went back and am looking through the dex stuff you posted, that's the next 
 some recources for dex and go that I found
 
 -> https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/go-devenv.html
+
 -> https://github.com/aws/aws-sdk-go
+
 -> https://hackernoon.com/deploying-a-go-application-on-aws-ec2-76390c09c2c5
