@@ -8,3 +8,9 @@ It also seemed to be just out of date enough to no longer be relevant? This may 
 of the posted paths their stuff and mine looked completly different, so I gave up on it.
 
 I've went back and am looking through the dex stuff you posted, that's the next potential solution I'm going to try.
+
+some recources for dex and go that I found
+
+-> https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/go-devenv.html
+-> https://github.com/aws/aws-sdk-go
+-> https://hackernoon.com/deploying-a-go-application-on-aws-ec2-76390c09c2c5
